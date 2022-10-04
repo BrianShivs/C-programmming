@@ -1,3 +1,7 @@
+  
+//The program promts the user to enter salary and years 
+//They have worked for the company
+//The program then calculates their bonus  
 #include<cmath>
 
 #include <iostream>
