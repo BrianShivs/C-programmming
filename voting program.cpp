@@ -1,3 +1,5 @@
+//The program prompts for age 
+//The program tells you if you can vote or not
 #include <iostream>
 
 using namespace std;
