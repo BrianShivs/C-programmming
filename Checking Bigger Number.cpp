@@ -1,4 +1,6 @@
-//The program prints hello world
+   
+//The program accepts three numbers and evalueates to see which is greater.
+//Using if statements and logical operants. 
 #include <iostream>
 
 using namespace std;
